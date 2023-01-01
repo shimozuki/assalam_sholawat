@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712439402624",
+    "project_id": "flutterquran-fb826",
+    "storage_bucket": "flutterquran-fb826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712439402624:android:7ceb4d1cbd2fa73e3c1665",
+        "android_client_info": {
+          "package_name": "com.ikmalismail.flutter_quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712439402624-e9hhpcuvfcel39behb05771hq055l0vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BIROJXNm7fCufTvQ9IgfQyS05VjlV7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712439402624-e9hhpcuvfcel39behb05771hq055l0vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
