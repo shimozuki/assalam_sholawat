@@ -1,4 +1,4 @@
-# flutter_quran
+# Assalam Sholawat Flutter
 
 A new Flutter project.
 
